@@ -1,0 +1,5 @@
+
+class specializzando:
+    nome = ''
+    cognome = ''
+
